@@ -1,16 +1,16 @@
-import 'package:flutter_swiper/e_fifth/swiper_pagination.dart';
-
 /**
- * Copyright 2019 Parcel Santa Pte Ltd. All rights reserved.
+ * Flutter
  *
- * Eddie, enguagns@parcelsanta.com
+ * Eddie, enguagns2@gamil.com
  *
- * Use of this source code is limited within Parcel Santa company and its related projects.
+ * https://juejin.im/user/5acd7f706fb9a028d375c045
+ *
  */
 
 import 'swiper.dart';
 import '../config.dart';
 import 'swiper_controller.dart';
+import 'swiper_pagination.dart';
 import 'package:flutter/material.dart';
 
 /// Created On 2019/12/30

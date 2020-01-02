@@ -1,3 +1,12 @@
+/**
+ * Flutter
+ *
+ * Eddie, enguagns2@gamil.com
+ *
+ * https://juejin.im/user/5acd7f706fb9a028d375c045
+ *
+ */
+
 import 'dart:async';
 import 'swiper_controller.dart';
 import 'transformer_page_view.dart';

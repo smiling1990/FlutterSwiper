@@ -1,9 +1,10 @@
 /**
- * Copyright 2019 Parcel Santa Pte Ltd. All rights reserved.
+ * Flutter
  *
- * Eddie, enguagns@parcelsanta.com
+ * Eddie, enguagns2@gamil.com
  *
- * Use of this source code is limited within Parcel Santa company and its related projects.
+ * https://juejin.im/user/5acd7f706fb9a028d375c045
+ *
  */
 
 import 'dart:async';

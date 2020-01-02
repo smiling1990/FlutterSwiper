@@ -1,3 +1,12 @@
+/**
+ * Flutter
+ *
+ * Eddie, enguagns2@gamil.com
+ *
+ * https://juejin.im/user/5acd7f706fb9a028d375c045
+ *
+ */
+
 import 'a_first/a_first_page.dart';
 import 'b_second/b_second_page.dart';
 import 'c_third/c_third_page.dart';

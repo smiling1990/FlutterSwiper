@@ -1,3 +1,12 @@
+/**
+ * Flutter
+ *
+ * Eddie, enguagns2@gamil.com
+ *
+ * https://juejin.im/user/5acd7f706fb9a028d375c045
+ *
+ */
+
 import 'dart:async';
 import 'package:flutter/widgets.dart';
 import 'package:flutter/foundation.dart';
